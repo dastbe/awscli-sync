@@ -5,8 +5,8 @@ A CLI for syncing the latest AWS SDK locally
 ## How do I use it?
 
 ```sh
-cargo install awscli-pull
-awscli-pull
+cargo install awscli-sync
+awscli-sync
 ```
 
 ## What does it look like?
