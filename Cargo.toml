@@ -1,5 +1,5 @@
 [package]
-name = "awscli-pull"
+name = "awscli-sync"
 version = "0.1.0"
 edition = "2018"
 authors = ["David Bell <david@dbell.dev>"]
